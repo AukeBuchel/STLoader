@@ -18,3 +18,14 @@ Python-based script for downloading lego-compatible brick STLs from set part lis
 ## Status
 I tested this on a few sets (20010-1). This worked great, but if you have any issues feel free to open one!
 
+## Requirements
+You should have python 3.14 installed. You should not need any non-standard libraries.
+
+## Usage
+Run the script directly from a CLI `<script location>/stloader.pyw`.
+
+### Example of the script GUI
+<img width="904" height="684" alt="afbeelding" src="https://github.com/user-attachments/assets/c3168ddf-333a-4588-8beb-c756c94bc281" />
+<img width="898" height="682" alt="afbeelding" src="https://github.com/user-attachments/assets/4bf1580e-d5da-4812-a3cc-f36ca8a35aa5" />
+<img width="1016" height="277" alt="afbeelding" src="https://github.com/user-attachments/assets/befddcee-d727-4d38-9882-4d312ac0e4a7" />
+
